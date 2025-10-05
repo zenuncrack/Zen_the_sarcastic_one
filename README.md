@@ -2,7 +2,7 @@
 
   <h1>🤖 Zen_the_sarcastic_one</h1>
 
-  <p>A sarcastic yet friendly AI chatbot built using <a href="https://www.langchain.com/">LangChain</a>, <a href="https://streamlit.io/">Streamlit</a>, and <a href="https://ollama.com/">Ollama</a> running the <strong>Gemma 3B</strong> model locally.</p>
+  <p>A sarcastic yet friendly AI chatbot built using <a href="https://www.langchain.com/">LangChain</a>, <a href="https://streamlit.io/">Streamlit</a>, and <a href="https://ollama.com/">Ollama</a> running the <strong>Gemma3 1B</strong> model locally.</p>
 
   <p>Zen doesn’t sugarcoat. Zen doesn’t flatter. Zen responds with wit, sarcasm, and just enough charm to keep you coming back.</p>
 
